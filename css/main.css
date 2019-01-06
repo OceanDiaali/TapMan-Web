@@ -13,11 +13,38 @@ h1 {
     margin-top: 100px;
 }
 
+h3 {
+    color: bisque;
+    text-shadow: 2px 2px brown;
+}
+
+#counter {
+    margin: auto;
+    margin-bottom: 45px;
+    padding: 12px;
+    background: brown;
+    color: white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50%;
+}
+
 #refreshBtn, #tapBtn {
     background: brown;
     color: white;
     width: 70px;
     height: 30px;
+}
+
+#hiScore {
+    color: brown;
+    text-shadow: 2px 2px wheat;
+}
+
+#timer {
+    color: brown;
+    text-shadow: 1px 1px coral;
 }
 
 footer {
