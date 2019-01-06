@@ -1,0 +1,25 @@
+#container {
+    background: #eeee;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 100px;
+    width: 450px;
+    height: 450px;
+}
+
+h1 {
+    color: brown;
+    text-shadow: 2px 2px burlywood;
+    margin-top: 100px;
+}
+
+#refreshBtn, #tapBtn {
+    background: brown;
+    color: white;
+    width: 70px;
+    height: 30px;
+}
+
+footer {
+    text-align: center;
+}
